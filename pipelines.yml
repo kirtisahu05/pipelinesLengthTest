@@ -1,0 +1,22 @@
+
+pipelines: 
+  - name: pip1
+  - name: pip2
+  - name: pip3
+  - name: pip4
+  - name: pip5
+  - name: pip6
+  - name: pip7
+  - name: pip8
+  - name: pip9
+  - name: pip10
+  - name: pip11
+  - name: pip12
+  - name: pip13
+  - name: pip14
+  - name: pip15
+  - name: pip16
+  - name: pip17
+  - name: pip18
+  - name: pip19
+  - name: pip20
