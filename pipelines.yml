@@ -1,22 +1,42 @@
 
 pipelines: 
   - name: pip1
+    steps:
   - name: pip2
+    steps:
   - name: pip3
+    steps:
   - name: pip4
+    steps:
   - name: pip5
+    steps:
   - name: pip6
+    steps:
   - name: pip7
+    steps:
   - name: pip8
+    steps:
   - name: pip9
+    steps:
   - name: pip10
+    steps:
   - name: pip11
+    steps:
   - name: pip12
+    steps:
   - name: pip13
+    steps:
   - name: pip14
+    steps:
   - name: pip15
+    steps:
   - name: pip16
+    steps:
   - name: pip17
+    steps:
   - name: pip18
+    steps:
   - name: pip19
+    steps:
   - name: pip20
+    steps:
