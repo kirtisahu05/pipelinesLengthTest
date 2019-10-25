@@ -135,7 +135,7 @@ pipelines:
             - echo "done"
   - name: pip20
     steps:
-      - name: publish_chart_helm
+      - name: publish_chart_helm_test_test_test
         type: Bash
         execution:
           onExecute:
