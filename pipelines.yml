@@ -7,20 +7,20 @@ pipelines:
         execution:
           onExecute:
             - echo "done"
-#   - name: pip2
-#     steps:
-#       - name: test
-#         type: Bash
-#         execution:
-#           onExecute:
-#             - echo "done"
-#   - name: pip3
-#     steps:
-#       - name: test
-#         type: Bash
-#         execution:
-#           onExecute:
-#             - echo "done"
+  - name: pip2
+    steps:
+      - name: test
+        type: Bash
+        execution:
+          onExecute:
+            - echo "done"
+  - name: pip3
+    steps:
+      - name: test
+        type: Bash
+        execution:
+          onExecute:
+            - echo "done"
 #   - name: pip4
 #     steps:
 #       - name: test
