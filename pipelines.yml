@@ -21,122 +21,122 @@ pipelines:
         execution:
           onExecute:
             - echo "done"
-#   - name: pip4
-#     steps:
-#       - name: test
-#         type: Bash
-#         execution:
-#           onExecute:
-#             - echo "done"
-#   - name: pip5
-#     steps:
-#       - name: test
-#         type: Bash
-#         execution:
-#           onExecute:
-#             - echo "done"
-#   - name: pip6
-#     steps:
-#       - name: test
-#         type: Bash
-#         execution:
-#           onExecute:
-#             - echo "done"
-#   - name: pip7
-#     steps:
-#       - name: test
-#         type: Bash
-#         execution:
-#           onExecute:
-#             - echo "done"
-#   - name: pip8
-#     steps:
-#       - name: test
-#         type: Bash
-#         execution:
-#           onExecute:
-#             - echo "done"
-#   - name: pip9
-#     steps:
-#       - name: test
-#         type: Bash
-#         execution:
-#           onExecute:
-#             - echo "done"
-#   - name: pip10
-#     steps:
-#       - name: test
-#         type: Bash
-#         execution:
-#           onExecute:
-#             - echo "done"
-#   - name: pip11
-#     steps:
-#       - name: test
-#         type: Bash
-#         execution:
-#           onExecute:
-#             - echo "done"
-#   - name: pip12
-#     steps:
-#       - name: test
-#         type: Bash
-#         execution:
-#           onExecute:
-#             - echo "done"
-#   - name: pip13
-#     steps:
-#       - name: test
-#         type: Bash
-#         execution:
-#           onExecute:
-#             - echo "done"
-#   - name: pip14
-#     steps:
-#       - name: test
-#         type: Bash
-#         execution:
-#           onExecute:
-#             - echo "done"
-#   - name: pip15
-#     steps:
-#       - name: test
-#         type: Bash
-#         execution:
-#           onExecute:
-#             - echo "done"
-#   - name: pip16
-#     steps:
-#       - name: test
-#         type: Bash
-#         execution:
-#           onExecute:
-#             - echo "done"
-#   - name: pip17
-#     steps:
-#       - name: test
-#         type: Bash
-#         execution:
-#           onExecute:
-#             - echo "done"
-#   - name: pip18
-#     steps:
-#       - name: test
-#         type: Bash
-#         execution:
-#           onExecute:
-#             - echo "done"
-#   - name: pip19
-#     steps:
-#       - name: test
-#         type: Bash
-#         execution:
-#           onExecute:
-#             - echo "done"
-#   - name: pip20
-#     steps:
-#       - name: publish_chart_helm_test_test_test
-#         type: Bash
-#         execution:
-#           onExecute:
-#             - echo "done"
+  - name: pip4
+    steps:
+      - name: test
+        type: Bash
+        execution:
+          onExecute:
+            - echo "done"
+  - name: pip5
+    steps:
+      - name: test
+        type: Bash
+        execution:
+          onExecute:
+            - echo "done"
+  - name: pip6
+    steps:
+      - name: test
+        type: Bash
+        execution:
+          onExecute:
+            - echo "done"
+  - name: pip7
+    steps:
+      - name: test
+        type: Bash
+        execution:
+          onExecute:
+            - echo "done"
+  - name: pip8
+    steps:
+      - name: test
+        type: Bash
+        execution:
+          onExecute:
+            - echo "done"
+  - name: pip9
+    steps:
+      - name: test
+        type: Bash
+        execution:
+          onExecute:
+            - echo "done"
+  - name: pip10
+    steps:
+      - name: test
+        type: Bash
+        execution:
+          onExecute:
+            - echo "done"
+  - name: pip11
+    steps:
+      - name: test
+        type: Bash
+        execution:
+          onExecute:
+            - echo "done"
+  - name: pip12
+    steps:
+      - name: test
+        type: Bash
+        execution:
+          onExecute:
+            - echo "done"
+  - name: pip13
+    steps:
+      - name: test
+        type: Bash
+        execution:
+          onExecute:
+            - echo "done"
+  - name: pip14
+    steps:
+      - name: test
+        type: Bash
+        execution:
+          onExecute:
+            - echo "done"
+  - name: pip15
+    steps:
+      - name: test
+        type: Bash
+        execution:
+          onExecute:
+            - echo "done"
+  - name: pip16
+    steps:
+      - name: test
+        type: Bash
+        execution:
+          onExecute:
+            - echo "done"
+  - name: pip17
+    steps:
+      - name: test
+        type: Bash
+        execution:
+          onExecute:
+            - echo "done"
+  - name: pip18
+    steps:
+      - name: test
+        type: Bash
+        execution:
+          onExecute:
+            - echo "done"
+  - name: pip19
+    steps:
+      - name: test
+        type: Bash
+        execution:
+          onExecute:
+            - echo "done"
+  - name: pip20
+    steps:
+      - name: publish_chart_helm_test_test_test
+        type: Bash
+        execution:
+          onExecute:
+            - echo "done"
